@@ -2,5 +2,13 @@ hi mars.
 The two moons may be a problem for wolfman.
 the mummy will appreciate the lack of humidity.
 maybe I should start a file on Venus.
+<<<<<<< HEAD
 this line was written by megan!
+=======
+<<<<<<< HEAD
+demo
+=======
+>>>>>>> f175d4e6eb8a123525179b5a50d7356678dfdd54
 this line on mijin's copy
+>>>>>>> 76eb80021eea9bf303062a02bdda15ae8bed6553
+this line is Amanda's contribution
